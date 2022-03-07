@@ -345,7 +345,7 @@ The example above renders as:
     > This quote block is indented four spaces.
 
 
-## Lists (Numbered, Bulleted, Checklist)
+## Lists (Numbered, Bulleted)
 
 ### Numbered list
 
@@ -390,27 +390,6 @@ This renders as follows:
 - All done!
 
 Whichever syntax you use, `-` or `*`, use it consistently within an article.
-
-### Checklist
-
-Checklists are available for use on the Community Blog via a custom Markdown extension:
-
-```markdown
-> [!div class="checklist"]
-> * List item 1
-> * List item 2
-> * List item 3
-```
-
-This example renders on the Community Blog like this:
-
-> [!div class="checklist"]
-> * List item 1
-> * List item 2
-> * List item 3
-
-Use checklists at the beginning or end of an article to summarize "What will you learn" or "What have you learned" content. Do not add random checklists throughout your articles.
-
 
 ## Subscript and superscript
 

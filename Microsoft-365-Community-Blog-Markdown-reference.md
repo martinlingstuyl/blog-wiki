@@ -210,8 +210,7 @@ Here are the encodings for the "smart" versions of these punctuation marks:
 - Right (closing) single quotation mark or apostrophe: `&#8217;`
 - Left (opening) single quotation mark (rarely used): `&#8216;`
 
-> [!TIP]
-> To avoid "smart" characters in your Markdown files, rely on the Docs Authoring Pack's smart quote replacement feature. 
+> **TIP:** To avoid "smart" characters in your Markdown files, rely on the Docs Authoring Pack's smart quote replacement feature. 
 
 <!-- For more information, see [smart quote replacement](docs-authoring/smart-quote-replacement.md). -->
 
@@ -271,7 +270,7 @@ The Community Blog supports HTML comments if you must comment out sections of yo
 <!--- Here's my comment --->
 ```
 
-> [!WARNING]
+> **WARNING]
 > Do not put private or sensitive information in HTML comments. The Community Blog carries HTML comments through to the published HTML that goes public. While HTML comments are invisible to the reader's eye, they are exposed in the HTML underneath.
 
 
@@ -500,8 +499,7 @@ The example renders as:
 
 Every entry in the first column must be styled as bold (`**bold**`); otherwise the tables won't be accessible for screen readers or valid for the Community Blog.
 
-> [!TIP]
-> The Docs Authoring Pack for VS Code includes a function to convert a regular Markdown table into a data matrix table. Just select the table, right-click, and select **Convert to data matrix table**.
+> **TIP:** The Docs Authoring Pack for VS Code includes a function to convert a regular Markdown table into a data matrix table. Just select the table, right-click, and select **Convert to data matrix table**.
 
 ### HTML Tables
 

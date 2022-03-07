@@ -270,8 +270,7 @@ The Community Blog supports HTML comments if you must comment out sections of yo
 <!--- Here's my comment --->
 ```
 
-> **WARNING]
-> Do not put private or sensitive information in HTML comments. The Community Blog carries HTML comments through to the published HTML that goes public. While HTML comments are invisible to the reader's eye, they are exposed in the HTML underneath.
+> **WARNING:** Do not put private or sensitive information in HTML comments. The Community Blog carries HTML comments through to the published HTML that goes public. While HTML comments are invisible to the reader's eye, they are exposed in the HTML underneath.
 
 
 ## HTML

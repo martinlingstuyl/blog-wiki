@@ -1,5 +1,3 @@
-# Microsoft 365 Community Blog Markdown reference
-
 This article provides an alphabetical reference for writing Markdown for the Microsoft 365 Community Blog (the Community Blog).
 
 [Markdown](https://daringfireball.net/projects/markdown/) is a lightweight markup language with plain text formatting syntax. The Community Blog supports [CommonMark](https://commonmark.org/) compliant Markdown parsed through the [Markdig](https://github.com/lunet-io/markdig) parsing engine. The Community Blog also supports custom Markdown extensions that provide richer content on the Community Blog site.

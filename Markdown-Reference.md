@@ -74,7 +74,7 @@ When creating links, use the following Markdown syntax:
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
-[I'm a relative reference to a file in this repository](../blob/main/LICENSE)
+[I'm a relative reference to a post on this site](../anothearticle)
 
 [You can use numbers for reference-style link definitions][1]
 
@@ -98,7 +98,7 @@ Which produces the following links:
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
-[I'm a relative reference to a file in this repository](../blob/main/LICENSE)
+[I'm a relative reference to a post on this site](../anothearticle)
 
 [You can use numbers for reference-style link definitions][1]
 

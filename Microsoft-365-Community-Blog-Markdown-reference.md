@@ -481,11 +481,11 @@ To embed a YouTube video, follow these steps:
 
 1. From the YouTube video page, select the **Share** option
 
-   ![image](https://user-images.githubusercontent.com/13972467/157931126-90eed151-ee65-47f5-a4dc-cd09f44bd7c9.png)
+   ![The YouTube share option](https://user-images.githubusercontent.com/13972467/157931126-90eed151-ee65-47f5-a4dc-cd09f44bd7c9.png)
 
 1. From the **Share** dialog, copy the portion of the URL after `https://youtu.be/`, without the `/` character.
 
-   ![image](https://user-images.githubusercontent.com/13972467/157931760-50d3e684-c621-4456-a8d7-1be4fdc382a2.png)
+   ![Picture of the YouTube share dialog](https://user-images.githubusercontent.com/13972467/157931760-50d3e684-c621-4456-a8d7-1be4fdc382a2.png)
 
 1. In the Markdown file for your post, insert the following shortcode:
 
@@ -507,15 +507,15 @@ To embed a Podbean podcast, follow these steps:
 
    > This only works with individual episodes, where the episode link matches the pattern `pb-xxxxx-xxxxxx`
 
-1. From the **Share** dialog, copy the last portion of **Share episode link** after (and not including) the last `/` character.
+1. From the **Share** dialog, copy the last portion of **Share episode link** after (and not including) the last `/` character. This will be you Podbean episode id.
 
    ![The share dialog](https://user-images.githubusercontent.com/13972467/157933404-774203a2-eda7-4212-bebd-d6f1242e4323.png)
 
 1. In the Markdown file for your post, insert the following shortcode:
 
    ```markdown
-   {{< podbean your-podbean-code >}}
+   {{< podbean your-podbean-episode-id >}}
    ```
-   And replace `your-podbean-code` with the code you copied in the previous step.
+   And replace `your-podbean-episode-id` with the code you copied in the previous step.
  
 > Note that, when using Visual Studio Code to edit this repository, you can use the `podbean` or `short-podbean` snippets to automatically insert the Podbean shortcode.

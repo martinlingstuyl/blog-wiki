@@ -26,6 +26,7 @@ but you can use any of the next 5 levels of Markdown headings:
 - HTML headings, such as `<h1>`, aren't recommended, and in some cases will cause build warnings.
 - You can link to individual headings in a file via [bookmark links](how-to-write-links.md#explicit-anchor-links).
 - Headings should be used to create a logical and hierarchical structure for your post. For accessibility reasons, you should only use a third-level heading inside of a second-level heading, and a fourth-level heading inside of a third-level heading, and so on. Do not skip levels.
+- Do not add punctuation to the end of the headings
 
 ## Emphasis
 

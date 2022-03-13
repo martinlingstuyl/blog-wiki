@@ -519,3 +519,35 @@ To embed a Podbean podcast, follow these steps:
    And replace `your-podbean-episode-id` with the code you copied in the previous step.
  
 > Note that, when using Visual Studio Code to edit this repository, you can use the `podbean` or `short-podbean` snippets to automatically insert the Podbean shortcode.
+
+
+## Mermaid
+
+To embed a [Mermaid diagram](https://mermaid-js.github.io/mermaid/#/), follow these steps:
+
+1. In the Markdown file for your post, insert the following shortcode:
+
+   ```markdown
+   {{< mermaid >}}
+   your mermaid code here
+   {{< /mermaid >}}
+   ```
+   And replace `your mermaid code here` with valid mermaid syntax.
+
+For example, if you embed the following code:
+
+```markdown
+{{< mermaid >}}
+graph TD
+    A[Mermaid] -->|Get syntax| B(Insert shortcode)
+    B --> C{Does it work?}
+    C -->|Yes| D[Cool]
+    C -->|No| E[Uh oh]
+    C -->|Third option| F[fa:fa-rocket cool icon]
+{{< /mermaid >}}
+```
+Your post will display the following diagram:
+
+[![](https://mermaid.ink/img/pako:eNpVkMFOwzAMhl_F8gmk9QV6ALF2IA7bhXFAbQ9R4pJobVylrmBq-u6kFCTwyfr9-ddvz6jZEOb4HtRg4VzWHlI9VEcKvXKmgSy7i08kMF69qM8I-5tnP1JIguUg6_bttrNfUSjmkmkEJ_DB4XK_bLPi2-aNxghlVTB3zV_9xBEO1asFtv_0s3XBAA_i2Ed4rFqVtyoLrC8pj04u4DT7BnfYb2nTHfNqUKNY6qnGPLWGWjV1UmPtl4ROg1FCB-OEAya_bqQdqkn45eo15hIm-oVKp9Jb-h9q-QI5CmJI)](https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNpVkMFOwzAMhl_F8gmk9QV6ALF2IA7bhXFAbQ9R4pJobVylrmBq-u6kFCTwyfr9-ddvz6jZEOb4HtRg4VzWHlI9VEcKvXKmgSy7i08kMF69qM8I-5tnP1JIguUg6_bttrNfUSjmkmkEJ_DB4XK_bLPi2-aNxghlVTB3zV_9xBEO1asFtv_0s3XBAA_i2Ed4rFqVtyoLrC8pj04u4DT7BnfYb2nTHfNqUKNY6qnGPLWGWjV1UmPtl4ROg1FCB-OEAya_bqQdqkn45eo15hIm-oVKp9Jb-h9q-QI5CmJI)
+
+> Note that, when using Visual Studio Code to edit this repository, you can use the `mermaid` or `short-mermaid` snippets to automatically insert the mermaid shortcode.

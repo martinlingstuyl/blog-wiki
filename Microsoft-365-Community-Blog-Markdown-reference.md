@@ -550,6 +550,6 @@ Your post will display the following diagram:
 
 [![](https://mermaid.ink/img/pako:eNpVkMFOwzAMhl_F8gmk9QV6ALF2IA7bhXFAbQ9R4pJobVylrmBq-u6kFCTwyfr9-ddvz6jZEOb4HtRg4VzWHlI9VEcKvXKmgSy7i08kMF69qM8I-5tnP1JIguUg6_bttrNfUSjmkmkEJ_DB4XK_bLPi2-aNxghlVTB3zV_9xBEO1asFtv_0s3XBAA_i2Ed4rFqVtyoLrC8pj04u4DT7BnfYb2nTHfNqUKNY6qnGPLWGWjV1UmPtl4ROg1FCB-OEAya_bqQdqkn45eo15hIm-oVKp9Jb-h9q-QI5CmJI)](https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNpVkMFOwzAMhl_F8gmk9QV6ALF2IA7bhXFAbQ9R4pJobVylrmBq-u6kFCTwyfr9-ddvz6jZEOb4HtRg4VzWHlI9VEcKvXKmgSy7i08kMF69qM8I-5tnP1JIguUg6_bttrNfUSjmkmkEJ_DB4XK_bLPi2-aNxghlVTB3zV_9xBEO1asFtv_0s3XBAA_i2Ed4rFqVtyoLrC8pj04u4DT7BnfYb2nTHfNqUKNY6qnGPLWGWjV1UmPtl4ROg1FCB-OEAya_bqQdqkn45eo15hIm-oVKp9Jb-h9q-QI5CmJI)
 
-> Note that, when using Visual Studio Code to edit this repository, you can use the `mermaid` or `short-mermaid` snippets to automatically insert the mermaid shortcode.
-
 For more examples of mermaid diagrams, check out the [mermaid examples](https://mermaid-js.github.io/mermaid/#/examples)
+
+> Note that, when using Visual Studio Code to edit this repository, you can use the `mermaid` or `short-mermaid` snippets to automatically insert the mermaid shortcode.

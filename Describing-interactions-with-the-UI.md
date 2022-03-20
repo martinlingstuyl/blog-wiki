@@ -2,7 +2,7 @@ People interact with products using different input methods: keyboard, mouse, to
 
 ### Open
 
-#### Use for
+#### When to use it
 
 - Apps and programs
 - Blades
@@ -23,7 +23,7 @@ People interact with products using different input methods: keyboard, mouse, to
 
 ### Close
 
-#### Use for
+#### When to use it
 
 - Apps and programs
 - Blades
@@ -44,7 +44,7 @@ People interact with products using different input methods: keyboard, mouse, to
 
 ### Leave
 
-#### Use for
+#### When to use it
 
 Websites and webpages
 
@@ -54,7 +54,7 @@ Select **Submit** to complete the survey and leave the page.
 
 ### Go to
 
-#### Use for
+#### When to use it
 
 - Opening a menu.
 - Going to a tab or another particular place in the UI.
@@ -71,7 +71,7 @@ Select **Submit** to complete the survey and leave the page.
 
 ### Select
 
-#### Use for
+#### When to use it
 
 Instructing the reader to select a specific item, including:
 
@@ -108,7 +108,7 @@ Use to describe pressing and holding an element in the UI. It's OK to use *right
 
 ### >
 
-#### Use for
+#### When to use it
 
  Use a greater-than symbol (>) to separate sequential steps.
 
@@ -122,7 +122,7 @@ Select **Accounts** > **Other accounts** > **Add an account**.
 
 ### clear
 
-#### Use for
+#### When to use it
 
 Clearing the selection from a checkbox.
 
@@ -132,7 +132,7 @@ Clearing the selection from a checkbox.
 
 ### Switch, turn on, turn off
 
-#### Use for
+#### When to use it
 
 Turning a toggle key or toggle switch on or off.
 
@@ -145,8 +145,7 @@ Turning a toggle key or toggle switch on or off.
 
 ### Enter
 
-
-#### Use for
+#### When to use it
 
  Instructing the reader to type or otherwise insert a value, or to type or select a value in a combo box.
 
@@ -158,7 +157,7 @@ Turning a toggle key or toggle switch on or off.
 
 ### Mov, drag
 
-#### Use for
+#### When to use it
 
 Moving anything from one place to another by dragging, cutting and pasting, or another method. Use for tiles and any open window (including apps, dialog boxes, files, and blades).
 
@@ -173,7 +172,7 @@ Use *move through* to describe moving around on a page, moving through screens o
 
 ### Zoom, zoom in, zoom out
 
-#### Use for
+#### When to use it
 
 Use *zoom*, *zoom in*, and *zoom out* to refer to changing the magnification of the screen or window.
 

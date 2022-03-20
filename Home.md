@@ -11,6 +11,7 @@ Content to be added
 
 - [Markdown reference](Microsoft-365-Community-Blog-Markdown-reference)
 - [Writing step-by-step instructions](Writing-step-by-step-instructions)
+- [Describing interactions in the UI](Describing-interactions-with-the-UI)
 
 ## Publishing your post
 Content to be added

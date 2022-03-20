@@ -9,6 +9,7 @@ Content to be added
 
 ## Writing your post
 [Markdown reference](Microsoft-365-Community-Blog-Markdown-reference)
+[Writing step-by-step instructions](Writing-step-by-step-instructions)
 
 ## Publishing your post
 Content to be added

@@ -8,9 +8,9 @@ We'll add more content as we evolve this blog, but here is what we have so far:
 Content to be added
 
 ## Writing your post
-[Markdown reference](Microsoft-365-Community-Blog-Markdown-reference)
 
-[Writing step-by-step instructions](Writing-step-by-step-instructions)
+- [Markdown reference](Microsoft-365-Community-Blog-Markdown-reference)
+- [Writing step-by-step instructions](Writing-step-by-step-instructions)
 
 ## Publishing your post
 Content to be added

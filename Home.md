@@ -13,6 +13,7 @@ Content to be added
 - [Writing step-by-step instructions](Writing-step-by-step-instructions)
 - [Describing interactions in the UI](Describing-interactions-with-the-UI)
 - [Formatting text](Formatting-text)
+- [Word list and term collection](Word-list-and-term-collection)
 
 ## Publishing your post
 Content to be added

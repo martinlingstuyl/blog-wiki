@@ -43,7 +43,7 @@ Titles of blog posts use sentence-style capitalization.
 
 ### Blades
 
-Avoid talking about blades. Instead, describe what the customer needs to do.
+Avoid talking about blades. Instead, describe what the reader needs to do.
 
 When you must refer to a blade by name, use bold formatting for the name of the blade.
 
@@ -60,7 +60,7 @@ Don't include the word blade unless it adds needed clarity.
 
 ### Buttons, checkboxes, and other options
 
-Avoid talking about UI elements. Instead, describe what the customer needs to do.
+Avoid talking about UI elements. Instead, describe what the reader needs to do.
 
 When you must refer to a button, checkbox, or other option, use bold formatting for the name.
 
@@ -113,7 +113,7 @@ USB
 
 ### Dialog boxes
 
-Avoid talking about dialog boxes. Instead, describe what the customer needs to do.
+Avoid talking about dialog boxes. Instead, describe what the reader needs to do.
 
 When you must refer to a dialog box by name, use bold formatting for the name of the dialog box.
 
@@ -160,7 +160,7 @@ Make sure to include the `.`.
 
 ### File names
 
-Title-style capitalization. It's OK to use internal capital letters in file names for readability. Use code (monospace) formatting for file names in procedures if you're directing the customer to select, type, or otherwise interact with the name.
+Title-style capitalization. It's OK to use internal capital letters in file names for readability. Use code (monospace) formatting for file names in procedures if you're directing the reader to select, type, or otherwise interact with the name.
 
 If describing existing file names, use the same capitalization as the actual file name.
 
@@ -172,7 +172,7 @@ If describing existing file names, use the same capitalization as the actual fil
 
 ### Folder and directory names
 
-Sentence-style capitalization. It's OK to use internal capital letters in folder and directory names for readability. In procedures, use code (monospace) formatting for names if you're directing the customer to select, type, or otherwise interact with the name
+Sentence-style capitalization. It's OK to use internal capital letters in folder and directory names for readability. In procedures, use code (monospace) formatting for names if you're directing the reader to select, type, or otherwise interact with the name
 
 #### Examples
 
@@ -205,7 +205,7 @@ Monospace. Capitalization varies.
 
 ### Menus
 
-Avoid talking about menus. Instead, describe what the customer needs to do.
+Avoid talking about menus. Instead, describe what the reader needs to do.
 
 When you must refer to a menu by name, use bold formatting for the name of the menu.
 
@@ -228,7 +228,7 @@ Microsoft Exchange consists of both *server* and *client* components.
 
 ### Panes
 
-Avoid talking about panes. Instead, describe what the customer needs to do
+Avoid talking about panes. Instead, describe what the reader needs to do
 
 When you must refer to a pane by name, use bold formatting for the name of the pane.
 
@@ -272,7 +272,7 @@ When referring to code, use the monospace style.
 
 ### Toggles
 
-Avoid talking about toggles. Instead, describe what the customer needs to do.
+Avoid talking about toggles. Instead, describe what the reader needs to do.
 
 When you must refer to a toggle by name, use bold formatting for the name of the toggle.
 
@@ -313,7 +313,7 @@ If instructing to write code, consider using monospace.
 
 ### Windows
 
-Avoid talking about windows. Instead, focus on what the customer needs to do.
+Avoid talking about windows. Instead, focus on what the reader needs to do.
 
 When you must refer to a window by name, use regular text. Use sentence-style capitalization unless you need to match the UI.
 

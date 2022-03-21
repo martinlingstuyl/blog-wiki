@@ -295,8 +295,15 @@ If referring to a URL you with the readers to visit and want to display the URL 
 
 If referring to a fictitious URL value, format it as monospace.
 
+When displaying a URL, don't include _https://_  unless it is surrounded by `<` and `>`. Include the protocol only if it's something other than HTTP, such as File Transfer Protocol (FTP).
+
+The trailing slash at the end of a URL is optional. In most cases, leave it off. Never use a trailing slash in a URL that ends with a file name.
+
+To refer to an entire website or top-level domain, such as Microsoft.com, omit _http://www_ from the URL and capitalize only the first letter of the URL, even if the site name is capitalized differently.
+
 #### Examples
 
+- Microsoft.com
 - Navigate to <https://make.powerapps.com>...
 - Enter `https://`*`yourtenant`*`.sharepoint.com`
 
